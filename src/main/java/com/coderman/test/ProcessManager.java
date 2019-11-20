@@ -82,7 +82,7 @@ public class ProcessManager {
 //        repositoryService.deleteDeployment();
 //        repositoryService.deleteDeployment();
 //        repositoryService.delete
-        repositoryService.deleteDeployment("12501",true);
+        repositoryService.deleteDeployment("5001",true);
     }
 
     /**
@@ -134,6 +134,8 @@ public class ProcessManager {
             }
         }
     }
+
+
 
     /**
      * 查询最新版本的流程定义

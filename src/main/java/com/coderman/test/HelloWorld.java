@@ -45,7 +45,7 @@ public class HelloWorld {
     @Test
     public void start(){
         RuntimeService runtimeService = engine.getRuntimeService();
-        runtimeService.startProcessInstanceById("HelloWorld:1:4");//通过流程定义的id启动流程
+        runtimeService.startProcessInstanceById("HelloWorld:4:30004");//通过流程定义的id启动流程
         System.out.println("流程启动成功");
     }
 

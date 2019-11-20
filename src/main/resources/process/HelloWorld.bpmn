@@ -3,9 +3,9 @@
   <process id="HelloWorld" isClosed="false" isExecutable="true" name="HelloWorld" processType="None">
     <startEvent id="_2" name="StartEvent"/>
     <endEvent id="_3" name="EndEvent"/>
-    <userTask activiti:assignee="张三" id="_4" name="提交申请"/>
-    <userTask activiti:assignee="李四" id="_5" name="部门经理审核"/>
-    <userTask activiti:assignee="王五" id="_6" name="总经理审核"/>
+    <userTask activiti:assignee="张三" activiti:exclusive="true" id="_4" name="提交申请"/>
+    <userTask activiti:assignee="李四" activiti:exclusive="true" id="_5" name="部门经理审核"/>
+    <userTask activiti:assignee="王五" activiti:exclusive="true" id="_6" name="总经理审核"/>
     <sequenceFlow id="_7" sourceRef="_2" targetRef="_4"/>
     <sequenceFlow id="_8" sourceRef="_4" targetRef="_5"/>
     <sequenceFlow id="_9" sourceRef="_5" targetRef="_6"/>
@@ -14,7 +14,7 @@
   <bpmndi:BPMNDiagram documentation="background=#3C3F41;count=1;horizontalcount=1;orientation=0;width=842.4;height=1195.2;imageableWidth=832.4;imageableHeight=1185.2;imageableX=5.0;imageableY=5.0" id="Diagram-_1" name="New Diagram">
     <bpmndi:BPMNPlane bpmnElement="HelloWorld">
       <bpmndi:BPMNShape bpmnElement="_2" id="Shape-_2">
-        <dc:Bounds height="32.0" width="32.0" x="325.0" y="40.0"/>
+        <dc:Bounds height="32.0" width="32.0" x="335.0" y="25.0"/>
         <bpmndi:BPMNLabel>
           <dc:Bounds height="32.0" width="32.0" x="0.0" y="0.0"/>
         </bpmndi:BPMNLabel>
@@ -26,41 +26,41 @@
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape bpmnElement="_4" id="Shape-_4">
-        <dc:Bounds height="55.0" width="200.0" x="250.0" y="205.0"/>
+        <dc:Bounds height="55.0" width="200.0" x="260.0" y="190.0"/>
         <bpmndi:BPMNLabel>
           <dc:Bounds height="55.0" width="200.0" x="0.0" y="0.0"/>
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape bpmnElement="_5" id="Shape-_5">
-        <dc:Bounds height="55.0" width="210.0" x="250.0" y="340.0"/>
+        <dc:Bounds height="55.0" width="210.0" x="255.0" y="330.0"/>
         <bpmndi:BPMNLabel>
           <dc:Bounds height="55.0" width="210.0" x="0.0" y="0.0"/>
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape bpmnElement="_6" id="Shape-_6">
-        <dc:Bounds height="55.0" width="200.0" x="250.0" y="485.0"/>
+        <dc:Bounds height="55.0" width="200.0" x="255.0" y="485.0"/>
         <bpmndi:BPMNLabel>
           <dc:Bounds height="55.0" width="200.0" x="0.0" y="0.0"/>
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNEdge bpmnElement="_7" id="BPMNEdge__7" sourceElement="_2" targetElement="_4">
-        <di:waypoint x="350.0" y="69.22875655532295"/>
-        <di:waypoint x="350.0" y="178.0"/>
-        <di:waypoint x="350.0" y="205.0"/>
+        <di:waypoint x="350.0" y="56.96871942267131"/>
+        <di:waypoint x="350.0" y="185.0"/>
+        <di:waypoint x="350.0" y="190.0"/>
         <bpmndi:BPMNLabel>
           <dc:Bounds height="0.0" width="0.0" x="0.0" y="0.0"/>
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge bpmnElement="_8" id="BPMNEdge__8" sourceElement="_4" targetElement="_5">
-        <di:waypoint x="350.0" y="260.0"/>
-        <di:waypoint x="350.0" y="340.0"/>
+        <di:waypoint x="360.0" y="245.0"/>
+        <di:waypoint x="360.0" y="330.0"/>
         <bpmndi:BPMNLabel>
           <dc:Bounds height="0.0" width="0.0" x="0.0" y="0.0"/>
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge bpmnElement="_9" id="BPMNEdge__9" sourceElement="_5" targetElement="_6">
-        <di:waypoint x="350.0" y="395.0"/>
-        <di:waypoint x="350.0" y="485.0"/>
+        <di:waypoint x="355.0" y="385.0"/>
+        <di:waypoint x="355.0" y="485.0"/>
         <bpmndi:BPMNLabel>
           <dc:Bounds height="0.0" width="0.0" x="0.0" y="0.0"/>
         </bpmndi:BPMNLabel>

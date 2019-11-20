@@ -12,4 +12,5 @@ public interface UserMapper {
 
     @Select(value = "select * from user")
     List<User> findAll();
+
 }
