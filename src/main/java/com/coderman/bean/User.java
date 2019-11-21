@@ -1,9 +1,11 @@
 package com.coderman.bean;
 
+import java.io.Serializable;
+
 /**
  * Created by zhangyukang on 2019/11/19 11:04
  */
-public class User {
+public class User implements Serializable {
     private Integer id;
     private String name;
     private String email;
