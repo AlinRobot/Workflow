@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6002a689-14d5-4807-bf66-8618f9b373d5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coderman/Example/TestExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coderman/ExclusiveGateWay/TestExclusiveGateWay.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coderman/ParallelGateway/TestParallelGateway.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coderman/SchoolProcess/TestSchoolProcess.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/process/Example.bpmn" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/process/Example.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/process/ExclusiveGateWay.bpmn" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/process/ExclusiveGateWay.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/process/ParallelGateway.bpmn" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/process/ParallelGateway.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/process/SchoolProcess.bpmn" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/process/SchoolProcess.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coderman/ExclusiveGateWay/TestExclusiveGateWay2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coderman/ParallelGateway/TestParallelGateway2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/process2/ExclusiveGateWay.bpmn" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/process2/ParallelGateway.bpmn" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/process2/ParallelGateway.zip" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,7 +19,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file leaf-file-name="TestExclusiveGateWay2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coderman/ExclusiveGateWay/TestExclusiveGateWay2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-805">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestParallelGateway2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/coderman/ParallelGateway/TestParallelGateway2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="67" column="66" lean-forward="false" selection-start-line="67" selection-start-column="66" selection-end-line="67" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExclusiveGateWay.bpmn" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/process2/ExclusiveGateWay.bpmn">
+          <provider selected="true" editor-type-id="bpmn-editor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,9 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
-        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/coderman/dao/UserMapper.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/process/process1.bpmn" />
         <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
@@ -95,6 +117,13 @@
         <option value="$PROJECT_DIR$/src/main/resources/process/ParallelGateway.bpmn" />
         <option value="$PROJECT_DIR$/src/main/resources/process/ParallelGateway.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/coderman/ParallelGateway/TestParallelGateway.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/process2/ExclusiveGateWay.bpmn" />
+        <option value="$PROJECT_DIR$/src/main/resources/process2/ExclusiveGateWay.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coderman/ParallelGateway/TestExclusiveGateWay2.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/process2/ParallelGateway.bpmn" />
+        <option value="$PROJECT_DIR$/src/main/resources/process2/ParallelGateway.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coderman/ExclusiveGateWay/TestExclusiveGateWay2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coderman/ParallelGateway/TestParallelGateway2.java" />
       </list>
     </option>
   </component>
@@ -124,7 +153,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
@@ -148,6 +177,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -196,14 +227,79 @@
               <item name="workline" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="coderman" type="462c0819:PsiDirectoryNode" />
+              <item name="ParallelGateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="coderman" type="462c0819:PsiDirectoryNode" />
+              <item name="review" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="coderman" type="462c0819:PsiDirectoryNode" />
+              <item name="SchoolProcess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="coderman" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="process2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workline" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="workline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workline" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,11 +307,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/process" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/process2" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myworkspace\workspace_idea\workline\src\main\resources\process2" />
       <recent name="D:\myworkspace\workspace_idea\workline\src\main\resources\process" />
       <recent name="D:\myworkspace\workspace_idea\workline\src\main\resources" />
     </key>
@@ -232,7 +329,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestParallelGateway.getGoods">
+  <component name="RunManager" selected="JUnit.TestParallelGateway2.queryTask">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -254,19 +351,19 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="TestParallelGateway.getGoods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestExclusiveGateWay2.doTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.coderman.ParallelGateway.*" />
+          <option name="PATTERN" value="com.coderman.ExclusiveGateWay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="workline" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.coderman.ParallelGateway" />
-      <option name="MAIN_CLASS_NAME" value="com.coderman.ParallelGateway.TestParallelGateway" />
-      <option name="METHOD_NAME" value="getGoods" />
+      <option name="PACKAGE_NAME" value="com.coderman.ExclusiveGateWay" />
+      <option name="MAIN_CLASS_NAME" value="com.coderman.ExclusiveGateWay.TestExclusiveGateWay2" />
+      <option name="METHOD_NAME" value="doTask" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -279,7 +376,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestParallelGateway.getMoney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestParallelGateway2.deploy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.coderman.ParallelGateway.*" />
@@ -290,8 +387,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.coderman.ParallelGateway" />
-      <option name="MAIN_CLASS_NAME" value="com.coderman.ParallelGateway.TestParallelGateway" />
-      <option name="METHOD_NAME" value="getMoney" />
+      <option name="MAIN_CLASS_NAME" value="com.coderman.ParallelGateway.TestParallelGateway2" />
+      <option name="METHOD_NAME" value="deploy" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -304,7 +401,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestParallelGateway.payTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestParallelGateway2.doTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.coderman.ParallelGateway.*" />
@@ -315,8 +412,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.coderman.ParallelGateway" />
-      <option name="MAIN_CLASS_NAME" value="com.coderman.ParallelGateway.TestParallelGateway" />
-      <option name="METHOD_NAME" value="payTask" />
+      <option name="MAIN_CLASS_NAME" value="com.coderman.ParallelGateway.TestParallelGateway2" />
+      <option name="METHOD_NAME" value="doTask" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -329,7 +426,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestParallelGateway.sendTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestParallelGateway2.queryTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.coderman.ParallelGateway.*" />
@@ -340,8 +437,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.coderman.ParallelGateway" />
-      <option name="MAIN_CLASS_NAME" value="com.coderman.ParallelGateway.TestParallelGateway" />
-      <option name="METHOD_NAME" value="sendTask" />
+      <option name="MAIN_CLASS_NAME" value="com.coderman.ParallelGateway.TestParallelGateway2" />
+      <option name="METHOD_NAME" value="queryTask" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -354,7 +451,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestParallelGateway.testQueryTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestParallelGateway2.start" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.coderman.ParallelGateway.*" />
@@ -365,8 +462,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.coderman.ParallelGateway" />
-      <option name="MAIN_CLASS_NAME" value="com.coderman.ParallelGateway.TestParallelGateway" />
-      <option name="METHOD_NAME" value="testQueryTask" />
+      <option name="MAIN_CLASS_NAME" value="com.coderman.ParallelGateway.TestParallelGateway2" />
+      <option name="METHOD_NAME" value="start" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -440,19 +537,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestParallelGateway.testQueryTask" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestParallelGateway.payTask" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestParallelGateway.sendTask" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestParallelGateway.getMoney" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestParallelGateway.getGoods" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestExclusiveGateWay2.doTask" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestParallelGateway2.deploy" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestParallelGateway2.start" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestParallelGateway2.doTask" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestParallelGateway2.queryTask" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestParallelGateway.getGoods" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestParallelGateway.getMoney" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestParallelGateway.testQueryTask" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestParallelGateway.sendTask" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestParallelGateway.payTask" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestParallelGateway2.queryTask" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestParallelGateway2.doTask" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestParallelGateway2.start" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestParallelGateway2.deploy" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestExclusiveGateWay2.doTask" />
       </list>
     </recent_temporary>
   </component>
@@ -479,47 +576,49 @@
       <workItem from="1574243053172" duration="1192000" />
       <workItem from="1574252585488" duration="608000" />
       <workItem from="1574321657772" duration="13250000" />
-      <workItem from="1574342949315" duration="3577000" />
+      <workItem from="1574342949315" duration="3976000" />
+      <workItem from="1574388322378" duration="4916000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestParallelGateway_getGoods - 2019.11.21 at 22h 28m 22s.xml">
-      <configuration name="TestParallelGateway.getGoods" configurationId="JUnit" />
+    <history-entry file="TestExclusiveGateWay2_doTask - 2019.11.22 at 10h 44m 22s.xml">
+      <configuration name="TestExclusiveGateWay2.doTask" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestParallelGateway_getMoney - 2019.11.21 at 22h 27m 13s.xml">
-      <configuration name="TestParallelGateway.getMoney" configurationId="JUnit" />
+    <history-entry file="TestExclusiveGateWay2_doTask - 2019.11.22 at 10h 46m 19s.xml">
+      <configuration name="TestExclusiveGateWay2.doTask" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestParallelGateway_payTask - 2019.11.21 at 22h 23m 11s.xml">
-      <configuration name="TestParallelGateway.payTask" configurationId="JUnit" />
+    <history-entry file="TestExclusiveGateWay2_doTask - 2019.11.22 at 10h 46m 52s.xml">
+      <configuration name="TestExclusiveGateWay2.doTask" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestParallelGateway_sendTask - 2019.11.21 at 22h 24m 58s.xml">
-      <configuration name="TestParallelGateway.sendTask" configurationId="JUnit" />
+    <history-entry file="TestExclusiveGateWay2_doTask - 2019.11.22 at 10h 47m 27s.xml">
+      <configuration name="TestExclusiveGateWay2.doTask" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestParallelGateway_testQueryTask - 2019.11.21 at 22h 19m 21s.xml">
-      <configuration name="TestParallelGateway.testQueryTask" configurationId="JUnit" />
+    <history-entry file="TestExclusiveGateWay2_queryTask - 2019.11.22 at 10h 40m 41s.xml">
+      <configuration name="TestExclusiveGateWay2.queryTask" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestParallelGateway_testQueryTask - 2019.11.21 at 22h 20m 01s.xml">
-      <configuration name="TestParallelGateway.testQueryTask" configurationId="JUnit" />
+    <history-entry file="TestExclusiveGateWay2_queryTask - 2019.11.22 at 10h 42m 05s.xml">
+      <configuration name="TestExclusiveGateWay2.queryTask" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestParallelGateway_testQueryTask - 2019.11.21 at 22h 21m 23s.xml">
-      <configuration name="TestParallelGateway.testQueryTask" configurationId="JUnit" />
+    <history-entry file="TestExclusiveGateWay2_start - 2019.11.22 at 10h 36m 19s.xml">
+      <configuration name="TestExclusiveGateWay2.start" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestParallelGateway_testQueryTask - 2019.11.21 at 22h 21m 58s.xml">
-      <configuration name="TestParallelGateway.testQueryTask" configurationId="JUnit" />
+    <history-entry file="TestParallelGateway2_deploy - 2019.11.22 at 11h 07m 18s.xml">
+      <configuration name="TestParallelGateway2.deploy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestParallelGateway_testQueryTask - 2019.11.21 at 22h 23m 40s.xml">
-      <configuration name="TestParallelGateway.testQueryTask" configurationId="JUnit" />
+    <history-entry file="TestParallelGateway2_doTask - 2019.11.22 at 11h 36m 50s.xml">
+      <configuration name="TestParallelGateway2.doTask" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestParallelGateway_testQueryTask - 2019.11.21 at 22h 25m 13s.xml">
-      <configuration name="TestParallelGateway.testQueryTask" configurationId="JUnit" />
+    <history-entry file="TestParallelGateway2_start - 2019.11.22 at 11h 35m 20s.xml">
+      <configuration name="TestParallelGateway2.start" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53126000" />
+    <option name="totallyTimeSpent" value="58441000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -528,12 +627,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4267442" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5669383" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="BPMN Editor" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27306867" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3965116" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3965116" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23444206" sideWeight="0.49393415" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23766094" sideWeight="0.49393415" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21620172" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -570,58 +669,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/process/process1.bpmn" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/5.22.0/activiti-engine-5.22.0.jar!/org/activiti/engine/ProcessEngineConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="23" column="63" lean-forward="true" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://BPMN_2_0/flowPath=D:/myworkspace/workspace_idea/workline/src/main/resources/process/HelloWorld.xml">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>BPMN_2_0</ID>
-          <OriginalElement>flowPath=D:/myworkspace/workspace_idea/workline/src/main/resources/process/HelloWorld.xml</OriginalElement>
-          <nodes>
-            <node x="" y="">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @10709</node>
-            <node x="" y="">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TStartEvent @10703</node>
-            <node x="" y="">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @10715</node>
-            <node x="" y="">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TEndEvent @10706</node>
-            <node x="" y="">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @10721</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="76.0" y="196.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Details</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/process/HelloWorld.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -777,15 +824,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/process/HelloWorld.bpmn">
-      <provider selected="true" editor-type-id="bpmn-editor">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.jboss.jbpm.chart.editor.BpmnDesignerFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="bpmn-editor">
         <state />
       </provider>
     </entry>
@@ -825,15 +872,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/process/Example.bpmn">
-      <provider selected="true" editor-type-id="bpmn-editor">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="-336">
           <caret line="14" column="93" lean-forward="true" selection-start-line="14" selection-start-column="93" selection-end-line="14" selection-end-column="93" />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.jboss.jbpm.chart.editor.BpmnDesignerFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="bpmn-editor">
         <state />
       </provider>
     </entry>
@@ -849,22 +896,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/process/SchoolProcess.bpmn">
-      <provider editor-type-id="bpmn-editor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.jboss.jbpm.chart.editor.BpmnDesignerFileEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="bpmn-editor">
         <state />
       </provider>
     </entry>
@@ -954,60 +998,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coderman/review/ReviewProcess2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coderman/SchoolProcess/TestSchoolProcess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coderman/review/ReviewProcess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/process/ExclusiveGateWay.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/process/ExclusiveGateWay.bpmn">
-      <provider selected="true" editor-type-id="bpmn-editor">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="61" lean-forward="true" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.jboss.jbpm.chart.editor.BpmnDesignerFileEditorProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/process/ParallelGateway.bpmn">
-      <provider editor-type-id="bpmn-editor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.jboss.jbpm.chart.editor.BpmnDesignerFileEditorProvider">
+      <provider selected="true" editor-type-id="bpmn-editor">
         <state />
       </provider>
     </entry>
@@ -1015,9 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1328">
           <caret line="83" column="35" lean-forward="false" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,6 +1088,124 @@
           <Categories>
             <Category>Details</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coderman/ParallelGateway/TestParallelGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1068">
+          <caret line="98" column="35" lean-forward="false" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/process/ParallelGateway.bpmn">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.jboss.jbpm.chart.editor.BpmnDesignerFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="bpmn-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="uml://BPMN_2_0/flowPath=D:/myworkspace/workspace_idea/workline/src/main/resources/process2/ExclusiveGateWay.xml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>BPMN_2_0</ID>
+          <OriginalElement>flowPath=D:/myworkspace/workspace_idea/workline/src/main/resources/process2/ExclusiveGateWay.xml</OriginalElement>
+          <nodes>
+            <node x="176.0" y="518.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TEndEvent @416</node>
+            <node x="167.0" y="-86.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TStartEvent @384</node>
+            <node x="171.0" y="366.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @411</node>
+            <node x="-49.0" y="285.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @406</node>
+            <node x="171.0" y="277.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @401</node>
+            <node x="400.0" y="294.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @396</node>
+            <node x="144.0" y="126.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TExclusiveGateway @392</node>
+            <node x="172.5" y="19.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @387</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @396" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TEndEvent @416">
+              <point x="0.0" y="17.5" />
+              <point x="367.5" y="438.0" />
+              <point x="265.0" y="438.0" />
+              <point x="36.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TExclusiveGateway @392" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @406">
+              <point x="-56.0" y="17.5" />
+              <point x="173.0" y="223.0" />
+              <point x="75.5" y="223.0" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TStartEvent @384" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @387">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @401" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @411">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TExclusiveGateway @392" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @401">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @406" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TEndEvent @416">
+              <point x="0.0" y="17.5" />
+              <point x="75.5" y="438.0" />
+              <point x="193.0" y="438.0" />
+              <point x="-36.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @387" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TExclusiveGateway @392">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @411" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TEndEvent @416">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TExclusiveGateway @392" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @396">
+              <point x="56.0" y="17.5" />
+              <point x="285.0" y="223.0" />
+              <point x="367.5" y="223.0" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="214.0" y="246.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Details</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coderman/review/ReviewProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coderman/review/ReviewProcess2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coderman/SchoolProcess/TestSchoolProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1097,10 +1217,135 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coderman/ParallelGateway/TestParallelGateway.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/process2/ParallelGateway.bpmn">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="98" column="35" lean-forward="false" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        <state relative-caret-position="192">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.jboss.jbpm.chart.editor.BpmnDesignerFileEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="bpmn-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="uml://BPMN_2_0/flowPath=D:/myworkspace/workspace_idea/workline/src/main/resources/process2/ParallelGateway.xml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>BPMN_2_0</ID>
+          <OriginalElement>flowPath=D:/myworkspace/workspace_idea/workline/src/main/resources/process2/ParallelGateway.xml</OriginalElement>
+          <nodes>
+            <node x="249.0" y="465.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TParallelGateway @34797</node>
+            <node x="249.0" y="178.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TParallelGateway @34763</node>
+            <node x="268.5" y="0.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TStartEvent @34755</node>
+            <node x="276.0" y="89.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34758</node>
+            <node x="452.0" y="366.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34787</node>
+            <node x="10.0" y="366.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34782</node>
+            <node x="272.5" y="554.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TEndEvent @34801</node>
+            <node x="238.5" y="277.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34777</node>
+            <node x="459.5" y="277.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34772</node>
+            <node x="231.0" y="366.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34792</node>
+            <node x="17.5" y="277.0">interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34767</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TStartEvent @34755" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34758">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34758" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TParallelGateway @34763">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TParallelGateway @34763" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34777">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34787" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TParallelGateway @34797">
+              <point x="0.0" y="17.5" />
+              <point x="547.5" y="445.0" />
+              <point x="378.1666666666667" y="445.0" />
+              <point x="51.666666666666686" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34772" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34787">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TParallelGateway @34763" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34767">
+              <point x="-51.666666666666686" y="17.5" />
+              <point x="274.8333333333333" y="223.0" />
+              <point x="105.5" y="223.0" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TParallelGateway @34797" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TEndEvent @34801">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34767" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34782">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34777" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34792">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34782" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TParallelGateway @34797">
+              <point x="0.0" y="17.5" />
+              <point x="105.5" y="445.0" />
+              <point x="274.8333333333333" y="445.0" />
+              <point x="-51.666666666666686" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34792" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TParallelGateway @34797">
+              <point x="0.0" y="17.5" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+            <edge source="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TParallelGateway @34763" target="interface com.intellij.jboss.jbpm.model.xml.bpmn20.TUserTask @34772">
+              <point x="51.666666666666686" y="17.5" />
+              <point x="378.1666666666667" y="223.0" />
+              <point x="547.5" y="223.0" />
+              <point x="0.0" y="-17.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="326.5" y="294.5" />
+          <SelectedNodes>
+            <node>interface com.intellij.jboss.jbpm.model.xml.bpmn20.TParallelGateway @34797</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Details</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/process2/ExclusiveGateWay.bpmn">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.jboss.jbpm.chart.editor.BpmnDesignerFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="bpmn-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coderman/ExclusiveGateWay/TestExclusiveGateWay2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-805">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coderman/ParallelGateway/TestParallelGateway2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="67" column="66" lean-forward="false" selection-start-line="67" selection-start-column="66" selection-end-line="67" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
